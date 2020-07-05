@@ -1,4 +1,7 @@
 Travel Chatbot can be used to book your next tour.
+
+A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+
 First, you need to clone or download the repository in your local system if you're accessing it using GitHub.
 
 Then you can extract the zipped folder and start the solution on visual studio code.
