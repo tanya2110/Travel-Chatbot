@@ -25,5 +25,5 @@ npm run use
 
 npm run deploy
 
-License
+License:
 I have used MIT license because it is a great choice as it allows you to share your code under a copyleft license without forcing others to expose their proprietary code, itís business friendly and open source friendly while still allowing for monetization
